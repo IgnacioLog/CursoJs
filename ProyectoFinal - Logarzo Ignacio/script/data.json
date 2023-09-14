@@ -1,0 +1,142 @@
+[
+    {
+        "type": "Adidas",
+        "description": "Adidas Predator 2010",
+        "price": 120000,
+        "available": true,
+        "source": "images/Adidas1.jpg"
+    },
+    {
+        "type": "Adidas",
+        "description": "Adidas Koresco 2001",
+        "price": 40000,
+        "available": true,
+        "source": "images/Adidas2.jpg"
+    },
+    {
+        "type": "Adidas",
+        "description": "Adidas Predator X CL 2010",
+        "price": 42000,
+        "available": true,
+        "source": "images/Adidas3.jpg"
+    },
+    {
+        "type": "Adidas",
+        "description": "Adidas Copa 20.3 2020",
+        "price": 1200,
+        "available": true,
+        "source": "images/Adidas4.jpg"
+    },
+    {
+        "type": "Adidas",
+        "description": "Adidas Predator Powerswerve 2008",
+        "price": 90000,
+        "available": true,
+        "source": "images/Adidas5.jpg"
+    },
+    {
+        "type": "Nike",
+        "description": "Nike Premier II 2017",
+        "price": 60000,
+        "available": true,
+        "source": "images/nike1.jpg"
+    },
+    {
+        "type": "Nike",
+        "description": "Nike Total 90 Air Zoom 2005",
+        "price": 95000,
+        "available": false,
+        "source": "images/Nike2.jpg"
+    },
+    {
+        "type": "Nike",
+        "description": "Nike Tempo Premier 3 1996",
+        "price": 35000,
+        "available": true,
+        "source": "images/nike3.jpg"
+    },
+    {
+        "type": "Nike",
+        "description": "Nike total 90 III VT 2004",
+        "price": 90000,
+        "available": true,
+        "source": "images/nike4.jpg"
+    },
+    {
+        "type": "Nike",
+        "description": "Nike ISSUE TIEMPO LEGEND 2011",
+        "price": 165000,
+        "available": true,
+        "source": "images/nike5.jpg"
+    },
+    {
+        "type": "Puma",
+        "description": "Puma Maradona Mundial 1986",
+        "price": 150000,
+        "available": true,
+        "source": "images/puma1.jpg"
+    },
+    {
+        "type": "Puma",
+        "description": "Puma Cellerator 2001",
+        "price": 45000,
+        "available": true,
+        "source": "images/puam2.jpg"
+    },
+    {
+        "type": "Puma",
+        "description": "Puma Cellerator Zero 2004",
+        "price": 90000,
+        "available": true,
+        "source": "images/puma3.jpg"
+    },
+    {
+        "type": "Puma",
+        "description": "Puma Veneno 2004",
+        "price": 59000,
+        "available": true,
+        "source": "images/puma4.jpg"
+    },
+    {
+        "type": "Puma",
+        "description": "Puma Future Z 2022",
+        "price": 40000,
+        "available": false,
+        "source": "images/puma5.jpg"
+    },
+    {
+        "type": "Umbro",
+        "description": "Umbro UX-1 CONCEPT 2014",
+        "price": 25000,
+        "available": true,
+        "source": "images/umbro1.jpg"
+    },
+    {
+        "type": "Umbro",
+        "description": "Umbro Speciali 4 pro 2014",
+        "price": 40000,
+        "available": true,
+        "source": "images/UMBRO2.jpg"
+    },
+    {
+        "type": "Umbro",
+        "description": "Umbro Spiros Futsal 2002",
+        "price": 56000,
+        "available": false,
+        "source": "images/umbro3.jpg"
+    },
+    {
+        "type": "Umbro",
+        "description": "Umbro Speciali Eternal 2015",
+        "price": 80200,
+        "available": true,
+        "source": "images/umbro4.jpg"
+    },
+    {
+        "type": "Umbro",
+        "description": "Umbro Speciali England 2010",
+        "price": 90000,
+        "available": true,
+        "source": "images/umbro5.jpg"
+    }
+]
